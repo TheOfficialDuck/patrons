@@ -2,8 +2,7 @@ supporter:
   name: []
   uuid: []
 special:
-  name: 
-  - TheOfficialDuck
+  name: []
   uuid: []
 premium:
   name: []
@@ -12,5 +11,6 @@ mvp:
   name: []
   uuid: []
 aegis:
-  name: []
+  name:
+  - TheOfficialDuck
   uuid: []
